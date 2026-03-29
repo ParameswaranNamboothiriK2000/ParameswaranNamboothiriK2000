@@ -23,7 +23,7 @@ I'm a Robotics & Automation engineer passionate about pushing the boundaries of 
 - 🔧 Advanced Self-Balancing Robot
 
 ## Education 🎓
-- MTech in Robotics and Automation, Amrita Vishwa Vidyapeetham (Current)
+- MTech in Robotics and Automation, Amrita Vishwa Vidyapeetham 
 - B.Tech in Mechanical Engineering, APJ Abdul Kalam Technological University
 
 ## Let's Connect! 🤝
