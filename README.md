@@ -1,8 +1,7 @@
 # Hi, I'm Parameswaran Namboothiri K 👋
 
 ## About Me 🚀
-
-I'm a Robotics & Automation engineer passionate about pushing the boundaries of robotic systems. Currently pursuing my MTech in Robotics and Automation at Amrita Vishwa Vidyapeetham, focusing on intelligent motion planning for 6-DOF manipulators.
+Robotics & Computer Vision Engineer with hands-on expertise in motion planning algorithms, trajectory optimization, and perception systems for autonomous robotic operations. Specialized in 6-DOF manipulator path planning, sensor fusion, 3D point cloud processing, and real-time computer vision (object detection, pose estimation, feature extraction)
 
 ## Current Focus 🔭
 - Developing advanced motion planning algorithms using MATLAB
